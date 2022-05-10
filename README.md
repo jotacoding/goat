@@ -4,7 +4,7 @@ G.O.A.T is a movie catalog site, where you can find many details about the movie
 Project of module 3 of the full stack course, started on April 26th.
 
 <h2> Website link</h2>
-<link href = "https://g-o-a-t-cine.onrender.com/">
+<a href="https://g-o-a-t-cine.onrender.com/">G.O.A.T Cine</a>
 
 <h3 align="left">Languages and Tools:</h3>
 <div style="display: inline_block">
