@@ -260,12 +260,12 @@ ul {
       top: -7px;
     }
     img {
-      width: 80px;
+      width: 140px;
       list-style: none;
       display: flex;
-      align-items: center;
       
-    }
+      
+    align-items: center;}
 
     #logo {
       font-size: 2rem;
@@ -664,7 +664,7 @@ display: flex;
 justify-items: center;
 align-items: center;
 padding: 1%;
-}
+position: relative;}
 
 
 
