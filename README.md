@@ -6,6 +6,9 @@ Project of module 3 of the full stack course, started on April 26th.
 <h2> Website link</h2>
 <a href="https://g-o-a-t-cine.onrender.com/">G.O.A.T Cine</a>
 
+<img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/1qSvV_0Nd1KXcRwYBKSIpFtlq4witXI2W/view?usp=sharing">
+
+
 <h3 align="left">Languages and Tools:</h3>
 <div style="display: inline_block">
   <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&color=190321&logoColor=cyan" />
