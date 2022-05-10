@@ -6,7 +6,7 @@ Project of module 3 of the full stack course, started on April 26th.
 <h2> Website link</h2>
 <a href="https://g-o-a-t-cine.onrender.com/">G.O.A.T Cine</a>
 
-<img align="center" alt="Coding" width="400" src="https://drive.google.com/file/d/1qSvV_0Nd1KXcRwYBKSIpFtlq4witXI2W/view?usp=sharing">
+
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -16,4 +16,5 @@ Project of module 3 of the full stack course, started on April 26th.
   <img align="center" alt="Express.JS" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&color=190321&logoColor=%2361DAFB" />
   <img align="center" alt="NODEJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&color=190321&logoColor=green" />
   <img align="center" alt="POSTGREE" SRC="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&color=190321&logoColor=white" />
+  ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
   <br></br>
