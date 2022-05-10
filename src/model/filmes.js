@@ -18,35 +18,35 @@ export const filmes = connection.define('filmes', {
         allowNull: false
     },
     img: {
-        type: Sequelize.STRING(),
+        type: Sequelize.STRING(5000),
         allowNull: false
     },
     duracao: {
-        type: Sequelize.INTEGER,
+        type: Sequelize.INTEGER(4),
         allowNull: false
     },
     ano: {
-        type: Sequelize.STRING,
+        type: Sequelize.STRING(4),
         allowNull: false
     },
     iframe: {
-        type: Sequelize.STRING,
+        type: Sequelize.STRING(5000),
         allowNull: true
     },
     sinopse: {
-        type: Sequelize.STRING,
+        type: Sequelize.STRING(500),
         allowNull: false
     },
     genero: {
-        type: Sequelize.STRING,
+        type: Sequelize.STRING(50),
         allowNull: false
     },
     assista: {
-        type: Sequelize.STRING,
+        type: Sequelize.STRING(50),
         allowNull: true
     },
     nota: {
-        type: Sequelize.STRING,
+        type: Sequelize.STRING(4),
         allowNull: false
     }
 

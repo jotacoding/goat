@@ -37,8 +37,8 @@
                              </div>
                          </a>
                          <div class="btn_container">
-                            <button class="delete" onclick='window.location.href= "/deletar/<%= element.id %> "'> <i class="fa-solid fa-trash"></i></button>
-                            <button class="editar" onclick='window.location.href= "/editar/<%= element.id %> "'> <i class="fa-solid fa-pencil"></i></button>
+                           <a href= "/deletar/<%= element.id %> "> <button class="delete"> <i class="fa-solid fa-trash"></i></button></a>
+                            <a href= "/editar/<%= element.id %> "><button class="editar"> <i class="fa-solid fa-pencil"></i></button></a>
                              </div>
                      </article>    
                      <% }) %>

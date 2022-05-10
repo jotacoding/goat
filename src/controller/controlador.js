@@ -33,7 +33,8 @@ res.render('detalhes.ejs', {
 export const getDeletar = async (req, res) => {
     try{
         await connection.query(`DELETE FROM filmes WHERE id= ${req.params.id}`)
-        res.render('index.ejs', {toggle : true})
+        const listFilmes = await filmes.findAll()
+        res.redirect('/')
     } 
     catch(error){
         res.send(error.message)
@@ -69,9 +70,7 @@ export const postCriar = async (req,res) =>{
 export const getEditar = async (req, res) => {
 try{
     const filmeAtual = await filmes.findByPk(req.params.id)
-    res.render('editar.ejs', {
-        filmeAtual
-    })
+    res.render('editar.ejs', {filmeAtual})
 
 } catch (error) {
     res.send(error.message)
